@@ -24,5 +24,5 @@ node /server
 
 webpack-dev-server
 
-open localhost:8080 in your favourite browser
+open a few instances of localhost:8080 in your favourite browser(s)
 
