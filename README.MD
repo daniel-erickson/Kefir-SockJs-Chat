@@ -3,7 +3,9 @@
 Uses webpack/Babel/ES6
 
 Based on  
+
 http://rpominov.github.io/kefir/#examples
+
 https://truongtx.me/2014/06/07/simple-chat-application-using-sockjs/
 
 #Dependencies
