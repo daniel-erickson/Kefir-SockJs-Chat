@@ -18,7 +18,11 @@ npm install webpack -g
 
 #Run
 
+npm install
+
 node /server
 
 webpack-dev-server
+
+open localhost:8080 in your favourite browser
 
